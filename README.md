@@ -1,8 +1,5 @@
 # Working-with-tenant-properties
-Identify and update the different properties associated with your tenant.
-
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+Identify and update the different properties associated
 
 <h2>Description</h2>
 I identified and update the different properties associated with your tenant.
